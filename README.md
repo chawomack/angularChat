@@ -1,11 +1,12 @@
 # angularChat
 Used Angular 1.5 Components to Create a Chat UI
+### Demo:
+https://chawomack.github.io/angularChat/
 
-Dependencies: Angular, Browserify
+### Dependencies: 
+Angular, Browserify
 
-Development:
-Install dependencies - 'npm install'
-Bundle JavaScript changes - `npm run-script build-js`
-
-Demo:
+### Development:
+1. Install dependencies - `npm install`
+2. Bundle JavaScript changes - `npm run-script build-js`
 
